@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+header{ 
+    width: 100%;
+    height: 70px;
+    background-color: gold;
+}
+.ligne1 {
+    padding-top: 60px;
+    display: flex;
+}
+
+.colone1{
+    margin-left: 30px;
+    width: 65%;
+}
+.colone2{
+    margin-left: 20px;
+    width: 35%;
+    padding-top: 80px;
+    color: aliceblue;
+}
+.oui {
+    height: 56.25%; 
+    width: 100%;
+    height: auto;
+}
+.rate{
+    padding-top: 10px;
+}
+
+h1{
+    display: inline;
+    font-size: 22px;
+}
+
+h2{
+    display: inline;
+    font-size: 12px;
+}
+
+p{
+    padding-top: 40px;
+    font-size: 16px;
+}
